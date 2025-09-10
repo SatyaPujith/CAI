@@ -1,10 +1,10 @@
-# AutoDoc AI - Tata Vehicle Service Platform
+# CarSOR AI 
 
-A comprehensive AI-powered vehicle service management platform specifically designed for Tata Motors vehicles.
+A comprehensive AI-powered vehicle service management platform.
 
 ## 🚗 Overview
 
-AutoDoc AI revolutionizes vehicle service management by connecting Tata vehicle owners with intelligent AI assistance and providing service providers with comprehensive analytics insights.
+Carsor AI revolutionizes vehicle service management by connecting vehicle owners with intelligent AI assistance and providing service providers with comprehensive analytics insights.
 
 ## ✨ Key Features
 
@@ -42,7 +42,7 @@ AutoDoc AI revolutionizes vehicle service management by connecting Tata vehicle 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd autodoc-ai
+   cd CAI
    ```
 
 2. **Install dependencies**
